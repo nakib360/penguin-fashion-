@@ -1,1 +1,1 @@
-link:-https://na-kib.github.io/penguin-fashion-/
+[live link](https://nakib360.github.io/penguin-fashion-/)
